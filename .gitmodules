@@ -22,3 +22,6 @@
 	path = _bibliography
 	url = https://github.com/pibook/bibliography.git
 	branch = master
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/pankotsovos/submodule.git
